@@ -3,7 +3,7 @@
 
 // Initializing a client socket.
 // To ensure the client socket connect with the target server,
-// We assumed "./client -h 127.0.0.1 -p 8080".
+// assuming "./client -h 127.0.0.1 -p 8080".
 int init(int argc, char *argv[]){
 
 
